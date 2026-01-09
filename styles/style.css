@@ -232,6 +232,32 @@ nav{
 }
 
 
+#early .early-heading{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #F7F6F2;
+    padding: 131px 156px;
+}
+
+#early .early-heading h2{
+    font-size: 40px;
+    margin-bottom: 30px;
+    color: #001931;
+}
+
+#early .early-heading p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #627382;
+}
+
+early .early-heading button{
+    margin-top: 30px;
+}
+
+
 
 
 
