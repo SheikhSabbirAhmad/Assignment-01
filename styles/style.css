@@ -124,6 +124,70 @@ nav{
     background-color: tomato;
 }
 
+#notes{
+    padding-top: 100px;
+}
+
+.section-heading h2{
+    font-size: 48px;
+    margin-bottom: 30px;
+    color: #001931;
+}
+
+.section-heading p{
+    font-size: 16px;
+    margin-bottom: 30px;
+    line-height: 20px;
+    color: #627382;
+}
+
+.notes-container{
+     width: 88%;
+    max-width: 1600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.notes-container .notes-box{
+    display: flex;
+    gap: 24px;
+    justify-content: space-around;
+}
+
+.notes-box .notes-card{
+    padding: 60px;
+    max-width: 350px;
+    text-align: center;
+    margin-top: 30px;
+    box-shadow: 0 6px 50px #0000003c ;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+}
+
+.notes-card img {
+    width: 60px;
+    height: 60px;
+    padding: 12px;
+    margin-bottom: 30px;
+    background-color: #F95555;
+    border-radius: 50%;
+}
+
+.notes-card h3{
+    font-size: 24px;
+    color: #001931;
+    margin-bottom: 20px;
+
+}
+
+.notes-card p{
+    font-size: 16px;
+    color:#627382;
+    line-height: 20px;
+    margin: 0 auto;
+    width: 270px;
+
+}
 
 
 
