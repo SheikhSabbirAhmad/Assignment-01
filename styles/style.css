@@ -189,6 +189,47 @@ nav{
 
 }
 
+#brain{
+    /* border: 2px solid red; */
+    margin:120px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.brain-content{
+    max-width: 585px;
+}
+
+.brain-content h3{
+    color: #469165;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 5px;
+}
+
+.brain-content h2{
+    color: #001931;
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    width: 685px;
+}
+
+.brain-content p{
+    color: #627382;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 30px;
+    width: 520px;
+}
+
+.brain-content .check{
+    font-size: 16px;
+    line-height: 40px;
+    color: #001931;
+    list-style: none;
+}
 
 
 
